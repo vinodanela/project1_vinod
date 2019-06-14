@@ -44,7 +44,8 @@ red not tracked
 
 git status
 git add filename
-git add . (all)
+git add . (all)ls 
+
 commit 
 git commit -m "mssge" 
 
