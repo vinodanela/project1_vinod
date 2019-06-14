@@ -32,6 +32,16 @@ git commit -a -m " message"
 
 https://github.com/vinodanela/project1_vinod.git
 
+
+hash
+dirs
+echo "hello"
+START  
+systeminfo
+
+
+
+
 git remote add origin https://github.com/vinodanela/project1_vinod.git
 adding file
 next  push to remote repository 
