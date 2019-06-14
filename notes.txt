@@ -1,4 +1,9 @@
 
+
+vinodanela  
+usser name git hub
+
+
 hello
 
 git config --global user.name "vinod"
@@ -15,7 +20,7 @@ staging area
 commit area 
 
 git add .
-(it add fikles to staging area )
+(it add files to staging area )
 
 git status
 (show current status of files)
@@ -23,3 +28,14 @@ git status
 git.commit -m " message"
 git log 
 git commit -a -m " message"
+
+
+https://github.com/vinodanela/project1_vinod.git
+
+git remote add origin https://github.com/vinodanela/project1_vinod.git
+adding file
+next  push to remote repository 
+
+git push -u origin master 
+
+ad
