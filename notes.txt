@@ -1,0 +1,23 @@
+
+hello
+
+git config --global user.name "vinod"
+
+git config --global user.email "vinod95@hotmail.com"
+ 
+git init 
+
+ls - a
+
+
+current working directoy
+staging area 
+commit area 
+
+git add .
+(it add fikles to staging area )
+
+git status
+(show current status of files)
+
+git.commit -m " message"
