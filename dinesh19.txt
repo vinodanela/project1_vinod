@@ -1,0 +1,81 @@
+
+
+
+vinodanela  
+usser name git hub
+
+
+hello
+
+git config --global user.name "vinod"
+
+git config --global user.email "vinod95@hotmail.com"
+ 
+git init ( to start git)
+
+ls - a
+
+
+current working directoy
+staging area 
+commit area 
+
+(staging area)
+git add .
+(it add files to staging area )
+
+git status
+(show current status of files)
+
+git.commit -m " message"
+git log 
+git commit -a -m " message"( no staging -a)
+
+(remote area)
+https://github.com/vinodanela/project1_vinod.git
+
+https://github.com/vinodanela
+
+single file pushing to remote area
+
+
+hash 
+
+dirs
+echo "hello"
+START  
+systeminfo
+
+
+
+
+git remote add origin 
+
+https://github.com/vinodanela/project1_vinod.git
+adding file
+next  push to remote repository 
+
+git push -u origin master 
+
+
+ls
+red not tracked
+
+git status
+git add filename
+git add . (all)ls 
+
+commit 
+git commit -m "mssge" 
+
+git push -u origin master 
+
+git push git sta
+(works)
+
+
+
+cloning 
+md dinesh_git (windows)
+
+cd dinesh_git
