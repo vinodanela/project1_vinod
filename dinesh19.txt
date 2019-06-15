@@ -73,6 +73,7 @@ git push -u origin master
 git push git sta
 (works)
 
+git push --set-upstream dinesh5.txt master (try)
 
 
 cloning 
