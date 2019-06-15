@@ -30,8 +30,12 @@ git.commit -m " message"
 git log 
 git commit -a -m " message"( no staging -a)
 
-
+(remote area)
 https://github.com/vinodanela/project1_vinod.git
+
+https://github.com/vinodanela
+
+single file pushing to remote area
 
 
 hash
