@@ -1,0 +1,6 @@
+
+create files 
+modify exsiting files
+push to github 
+
+keep one file inb staging area 
